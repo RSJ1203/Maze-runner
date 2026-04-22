@@ -1,2 +1,2 @@
 # Maze-runner
-A robot taht can tetect road and pass the maze
+A robot that can detect the road and pass the maze
